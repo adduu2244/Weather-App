@@ -4,9 +4,13 @@ A simple weather application built using HTML, CSS, and JavaScript.
 
 ## Features
 - Search weather by city
-- Displays temperature, location, date and time
-- Shows weather condition with icon
-- Clean UI with gradient background
+- Shows temperature, location, date and time
+- Displays weather condition with icon
+- Shows wind speed
+- Dynamic background based on weather
+- Error handling for invalid city
+- Get weather using current location
+- Clean glass style UI
 
 ## Technologies Used
 - HTML
